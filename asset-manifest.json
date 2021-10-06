@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Realtime-Expense-Tracker-Redux/static/css/main.258a5c0a.chunk.css",
+    "main.js": "/Realtime-Expense-Tracker-Redux/static/js/main.da531aa2.chunk.js",
+    "main.js.map": "/Realtime-Expense-Tracker-Redux/static/js/main.da531aa2.chunk.js.map",
+    "runtime-main.js": "/Realtime-Expense-Tracker-Redux/static/js/runtime-main.dd89c4c2.js",
+    "runtime-main.js.map": "/Realtime-Expense-Tracker-Redux/static/js/runtime-main.dd89c4c2.js.map",
+    "static/css/2.f4c56af9.chunk.css": "/Realtime-Expense-Tracker-Redux/static/css/2.f4c56af9.chunk.css",
+    "static/js/2.db4ea699.chunk.js": "/Realtime-Expense-Tracker-Redux/static/js/2.db4ea699.chunk.js",
+    "static/js/2.db4ea699.chunk.js.map": "/Realtime-Expense-Tracker-Redux/static/js/2.db4ea699.chunk.js.map",
+    "static/js/3.68e39876.chunk.js": "/Realtime-Expense-Tracker-Redux/static/js/3.68e39876.chunk.js",
+    "static/js/3.68e39876.chunk.js.map": "/Realtime-Expense-Tracker-Redux/static/js/3.68e39876.chunk.js.map",
+    "index.html": "/Realtime-Expense-Tracker-Redux/index.html",
+    "static/css/2.f4c56af9.chunk.css.map": "/Realtime-Expense-Tracker-Redux/static/css/2.f4c56af9.chunk.css.map",
+    "static/css/main.258a5c0a.chunk.css.map": "/Realtime-Expense-Tracker-Redux/static/css/main.258a5c0a.chunk.css.map",
+    "static/js/2.db4ea699.chunk.js.LICENSE.txt": "/Realtime-Expense-Tracker-Redux/static/js/2.db4ea699.chunk.js.LICENSE.txt",
+    "static/media/education.png": "/Realtime-Expense-Tracker-Redux/static/media/education.f21be753.png",
+    "static/media/empty.png": "/Realtime-Expense-Tracker-Redux/static/media/empty.f575b5cb.png",
+    "static/media/food.png": "/Realtime-Expense-Tracker-Redux/static/media/food.7bf88c6f.png",
+    "static/media/healthcare.png": "/Realtime-Expense-Tracker-Redux/static/media/healthcare.d26b4326.png",
+    "static/media/shopping.png": "/Realtime-Expense-Tracker-Redux/static/media/shopping.b248386d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd89c4c2.js",
+    "static/css/2.f4c56af9.chunk.css",
+    "static/js/2.db4ea699.chunk.js",
+    "static/css/main.258a5c0a.chunk.css",
+    "static/js/main.da531aa2.chunk.js"
+  ]
+}
