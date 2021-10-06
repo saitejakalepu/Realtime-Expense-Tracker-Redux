@@ -1,24 +1,28 @@
-import logo from './logo.svg';
-import './App.css';
+import Header from './components/header';
+import Topfold from './components/topfold';
+import Form from './components/form';
+import { useSelector } from "react-redux";
+import "react-toastify/dist/ReactToastify.css";
+import {ToastContainer } from "react-toastify";
+import './App.css'
+import ExpenseList from './components/expenses';
 
 function App() {
+  const showForm = useSelector(state=>state.showForm);
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+      <Header/>
+      <Topfold/>
+      {showForm ? <Form/> :  <ExpenseList/>}
+      <ToastContainer
+        position="bottom-right"
+        autoClose={2000}
+        hideProgressBar={false}
+        newestOnTop={false}
+        closeOnClick
+        />
+      </div>
   );
 }
 
