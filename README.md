@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Realtime Expense Tracker developed using React , Redux and Local storage
+Live @ :  https://saitejakalepu.github.io/Realtime-Expense-Tracker-Redux/
 
 ## Available Scripts
 
