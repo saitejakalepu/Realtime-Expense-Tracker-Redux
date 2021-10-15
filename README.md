@@ -4,6 +4,9 @@
 
 ## visit :  https://saitejakalepu.github.io/Realtime-Expense-Tracker-Redux/
 
+### Completely Mobile and Web responsive 
+
+<img src="responsive-expense-tracker"/>
 
 ![capture_expense-tracker](https://user-images.githubusercontent.com/69914580/137531138-468aa561-7a02-4701-835f-8c520e746105.JPG)
 
