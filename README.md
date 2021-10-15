@@ -3,6 +3,7 @@ Want to keep a track of your daily expenses ?
 
 ## visit :  https://saitejakalepu.github.io/Realtime-Expense-Tracker-Redux/
 
+![capture_expense-tracker](https://user-images.githubusercontent.com/69914580/137530558-18bf7962-d236-4087-a0f3-bc4ada167504.JPG)
 
 
 ## Available Scripts
