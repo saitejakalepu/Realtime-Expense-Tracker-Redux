@@ -2,9 +2,6 @@
 
 <h3>Want to keep a track of your daily expenses ? </h3>
 
-
-![5qkjl4](https://user-images.githubusercontent.com/69914580/137543822-2fcd1997-f27c-4a30-9d96-ec0b951a3214.gif)
-
 ## visit :  https://saitejakalepu.github.io/Realtime-Expense-Tracker-Redux/
 
 ### Completely Mobile and Web responsive 
