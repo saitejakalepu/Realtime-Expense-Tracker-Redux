@@ -1,5 +1,6 @@
 # Realtime Expense Tracker developed using React , Redux and Local storage
-Want to keep a track of your daily expenses ? 
+
+<h3>Want to keep a track of your daily expenses ? </h3>
 
 ## visit :  https://saitejakalepu.github.io/Realtime-Expense-Tracker-Redux/
 
